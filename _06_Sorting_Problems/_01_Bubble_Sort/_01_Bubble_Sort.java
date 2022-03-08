@@ -1,5 +1,3 @@
-package com.Sorting_Problems._01_Bubble_Sort;
-
 import java.util.Arrays;
 
 public class _01_Bubble_Sort {
