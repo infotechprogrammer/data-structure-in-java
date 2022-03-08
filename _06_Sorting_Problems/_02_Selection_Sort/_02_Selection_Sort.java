@@ -1,5 +1,3 @@
-package com.Sorting_Problems._02_Selection_Sort;
-
 import java.util.Arrays;
 
 public class _02_Selection_Sort {
