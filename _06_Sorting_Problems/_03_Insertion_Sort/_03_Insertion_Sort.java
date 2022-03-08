@@ -1,5 +1,3 @@
-package com.Sorting_Problems._03_Insertion_Sort;
-
 import java.util.Arrays;
 
 public class _03_Insertion_Sort {
