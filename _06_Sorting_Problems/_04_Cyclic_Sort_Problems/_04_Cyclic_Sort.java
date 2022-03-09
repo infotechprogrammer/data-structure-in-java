@@ -1,5 +1,3 @@
-package com.Sorting_Problems._04_Cyclic_Sort_Problems;
-
 import java.util.Arrays;
 
 public class _04_Cyclic_Sort {
