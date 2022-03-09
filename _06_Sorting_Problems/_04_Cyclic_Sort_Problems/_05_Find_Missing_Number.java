@@ -1,5 +1,3 @@
-package com.Sorting_Problems._04_Cyclic_Sort_Problems;
-
 public class _05_Find_Missing_Number {
     public static void main(String[] args) {
         int[] arr = {2,1,0,6,4,5};
