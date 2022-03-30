@@ -1,5 +1,3 @@
-package com.Sorting_Problems._04_Cyclic_Sort_Problems;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 
