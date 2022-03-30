@@ -1,4 +1,3 @@
-package com.Sorting_Problems._04_Cyclic_Sort_Problems;
 /*
 Given an array of integers nums containing n + 1 integers
 where each integer is in the range [1, n] inclusive.
