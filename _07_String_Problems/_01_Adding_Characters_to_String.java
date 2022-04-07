@@ -1,5 +1,3 @@
-package com.String_Problems;
-
 public class _01_Adding_Characters_to_String {
     public static void main(String[] args) {
         String series = "";
