@@ -1,5 +1,3 @@
-package com.String_Problems;
-
 public class _02_String_Builder {
     public static void main(String[] args) {
         StringBuilder builder = new StringBuilder();
