@@ -1,5 +1,3 @@
-package com.String_Problems;
-
 /*
 Check whether String is palindrome or not
 Eg1: abcdcba (true , it is palindrome)
