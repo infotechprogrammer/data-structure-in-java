@@ -1,4 +1,3 @@
-package com.String_Problems;
 /*
 There is a robot starting at the position (0, 0), the origin, on a 2D plane.
 Given a sequence of its moves, judge if this robot ends up at (0, 0) after it completes its moves.
